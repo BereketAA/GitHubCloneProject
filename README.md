@@ -1,1 +1,1 @@
-this is my first project on version control system. 
+This is the description of my repo 
